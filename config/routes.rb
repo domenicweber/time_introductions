@@ -1,4 +1,8 @@
 Rails.application.routes.draw do
+  get 'hello' => 'welcome#hello'
+  get 'hello/:name/and/:name2' => 'welcome#hello'
+  get 'time' => 'time#c_time'
+  get 'time/:name' => 'time#c_time'
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 
