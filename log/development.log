@@ -927,3 +927,292 @@ Processing by TimeController#c_time as HTML
   Parameters: {"name"=>"now"}
   Rendered time/c_time.html.erb within layouts/application (0.1ms)
 Completed 200 OK in 26ms (Views: 25.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/time/when" for ::1 at 2015-07-08 20:29:02 -0600
+Processing by TimeController#c_time as HTML
+  Parameters: {"name"=>"when"}
+  Rendered time/c_time.html.erb within layouts/application (3.3ms)
+Completed 200 OK in 478ms (Views: 456.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/time/now" for ::1 at 2015-07-08 20:29:10 -0600
+Processing by TimeController#c_time as HTML
+  Parameters: {"name"=>"now"}
+  Rendered time/c_time.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 28ms (Views: 27.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/time/now" for ::1 at 2015-07-08 20:30:50 -0600
+Processing by TimeController#c_time as HTML
+  Parameters: {"name"=>"now"}
+  Rendered time/c_time.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 33ms (Views: 32.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-07-08 20:30:50 -0600
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-07-08 20:30:50 -0600
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-07-08 20:30:50 -0600
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-07-08 20:30:50 -0600
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2015-07-08 20:30:50 -0600
+
+
+Started GET "/time/now" for ::1 at 2015-07-08 20:30:53 -0600
+Processing by TimeController#c_time as HTML
+  Parameters: {"name"=>"now"}
+  Rendered time/c_time.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 50ms (Views: 49.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-07-08 20:30:53 -0600
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-07-08 20:30:54 -0600
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-07-08 20:30:54 -0600
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2015-07-08 20:30:54 -0600
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-07-08 20:30:54 -0600
+
+
+Started GET "/time/now" for ::1 at 2015-07-08 20:31:46 -0600
+Processing by TimeController#c_time as HTML
+  Rendered time/c_time.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 32ms (Views: 30.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-07-08 20:31:46 -0600
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-07-08 20:31:46 -0600
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-07-08 20:31:46 -0600
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-07-08 20:31:46 -0600
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2015-07-08 20:31:46 -0600
+
+
+Started GET "/time/now" for ::1 at 2015-07-08 20:31:48 -0600
+Processing by TimeController#c_time as HTML
+  Rendered time/c_time.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 42ms (Views: 41.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-07-08 20:31:48 -0600
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2015-07-08 20:31:48 -0600
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-07-08 20:31:48 -0600
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-07-08 20:31:48 -0600
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-07-08 20:31:48 -0600
+
+
+Started GET "/time/now" for ::1 at 2015-07-08 20:32:25 -0600
+Processing by TimeController#c_time as HTML
+  Rendered time/c_time.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 35ms (Views: 34.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-07-08 20:32:25 -0600
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-07-08 20:32:25 -0600
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-07-08 20:32:25 -0600
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-07-08 20:32:25 -0600
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2015-07-08 20:32:25 -0600
+
+
+Started GET "/time/later" for ::1 at 2015-07-08 20:32:51 -0600
+Processing by TimeController#c_time as HTML
+  Parameters: {"name"=>"later"}
+Completed 500 Internal Server Error in 1ms (ActiveRecord: 0.0ms)
+
+NoMethodError (undefined method `now=' for Time:Class):
+  app/controllers/time_controller.rb:3:in `c_time'
+
+
+  Rendered /Users/thoth/.rvm/gems/ruby-2.2.1@davinci_coders/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/_source.erb (5.2ms)
+  Rendered /Users/thoth/.rvm/gems/ruby-2.2.1@davinci_coders/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.1ms)
+  Rendered /Users/thoth/.rvm/gems/ruby-2.2.1@davinci_coders/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.7ms)
+  Rendered /Users/thoth/.rvm/gems/ruby-2.2.1@davinci_coders/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (71.3ms)
+  Rendered /Users/thoth/.rvm/gems/ruby-2.2.1@davinci_coders/gems/web-console-2.1.3/lib/web_console/templates/_markup.html.erb (0.4ms)
+  Rendered /Users/thoth/.rvm/gems/ruby-2.2.1@davinci_coders/gems/web-console-2.1.3/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.4ms)
+  Rendered /Users/thoth/.rvm/gems/ruby-2.2.1@davinci_coders/gems/web-console-2.1.3/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.4ms)
+  Rendered /Users/thoth/.rvm/gems/ruby-2.2.1@davinci_coders/gems/web-console-2.1.3/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.3ms)
+  Rendered /Users/thoth/.rvm/gems/ruby-2.2.1@davinci_coders/gems/web-console-2.1.3/lib/web_console/templates/console.js.erb within layouts/javascript (62.1ms)
+  Rendered /Users/thoth/.rvm/gems/ruby-2.2.1@davinci_coders/gems/web-console-2.1.3/lib/web_console/templates/main.js.erb within layouts/javascript (0.4ms)
+  Rendered /Users/thoth/.rvm/gems/ruby-2.2.1@davinci_coders/gems/web-console-2.1.3/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.4ms)
+  Rendered /Users/thoth/.rvm/gems/ruby-2.2.1@davinci_coders/gems/web-console-2.1.3/lib/web_console/templates/index.html.erb (147.6ms)
+
+
+Started GET "/time/now" for ::1 at 2015-07-08 20:32:56 -0600
+Processing by TimeController#c_time as HTML
+  Parameters: {"name"=>"now"}
+Completed 500 Internal Server Error in 1ms (ActiveRecord: 0.0ms)
+
+NoMethodError (undefined method `now=' for Time:Class):
+  app/controllers/time_controller.rb:3:in `c_time'
+
+
+  Rendered /Users/thoth/.rvm/gems/ruby-2.2.1@davinci_coders/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/_source.erb (6.4ms)
+  Rendered /Users/thoth/.rvm/gems/ruby-2.2.1@davinci_coders/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (3.6ms)
+  Rendered /Users/thoth/.rvm/gems/ruby-2.2.1@davinci_coders/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.0ms)
+  Rendered /Users/thoth/.rvm/gems/ruby-2.2.1@davinci_coders/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (69.7ms)
+  Rendered /Users/thoth/.rvm/gems/ruby-2.2.1@davinci_coders/gems/web-console-2.1.3/lib/web_console/templates/_markup.html.erb (0.3ms)
+  Rendered /Users/thoth/.rvm/gems/ruby-2.2.1@davinci_coders/gems/web-console-2.1.3/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.3ms)
+  Rendered /Users/thoth/.rvm/gems/ruby-2.2.1@davinci_coders/gems/web-console-2.1.3/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.3ms)
+  Rendered /Users/thoth/.rvm/gems/ruby-2.2.1@davinci_coders/gems/web-console-2.1.3/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.3ms)
+  Rendered /Users/thoth/.rvm/gems/ruby-2.2.1@davinci_coders/gems/web-console-2.1.3/lib/web_console/templates/console.js.erb within layouts/javascript (57.5ms)
+  Rendered /Users/thoth/.rvm/gems/ruby-2.2.1@davinci_coders/gems/web-console-2.1.3/lib/web_console/templates/main.js.erb within layouts/javascript (0.4ms)
+  Rendered /Users/thoth/.rvm/gems/ruby-2.2.1@davinci_coders/gems/web-console-2.1.3/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.6ms)
+  Rendered /Users/thoth/.rvm/gems/ruby-2.2.1@davinci_coders/gems/web-console-2.1.3/lib/web_console/templates/index.html.erb (127.6ms)
+
+
+Started GET "/time/now" for ::1 at 2015-07-08 20:32:59 -0600
+Processing by TimeController#c_time as HTML
+  Parameters: {"name"=>"now"}
+Completed 500 Internal Server Error in 1ms (ActiveRecord: 0.0ms)
+
+NoMethodError (undefined method `now=' for Time:Class):
+  app/controllers/time_controller.rb:3:in `c_time'
+
+
+  Rendered /Users/thoth/.rvm/gems/ruby-2.2.1@davinci_coders/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/_source.erb (5.4ms)
+  Rendered /Users/thoth/.rvm/gems/ruby-2.2.1@davinci_coders/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.1ms)
+  Rendered /Users/thoth/.rvm/gems/ruby-2.2.1@davinci_coders/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.5ms)
+  Rendered /Users/thoth/.rvm/gems/ruby-2.2.1@davinci_coders/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (64.3ms)
+  Rendered /Users/thoth/.rvm/gems/ruby-2.2.1@davinci_coders/gems/web-console-2.1.3/lib/web_console/templates/_markup.html.erb (0.3ms)
+  Rendered /Users/thoth/.rvm/gems/ruby-2.2.1@davinci_coders/gems/web-console-2.1.3/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.3ms)
+  Rendered /Users/thoth/.rvm/gems/ruby-2.2.1@davinci_coders/gems/web-console-2.1.3/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.3ms)
+  Rendered /Users/thoth/.rvm/gems/ruby-2.2.1@davinci_coders/gems/web-console-2.1.3/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.3ms)
+  Rendered /Users/thoth/.rvm/gems/ruby-2.2.1@davinci_coders/gems/web-console-2.1.3/lib/web_console/templates/console.js.erb within layouts/javascript (64.8ms)
+  Rendered /Users/thoth/.rvm/gems/ruby-2.2.1@davinci_coders/gems/web-console-2.1.3/lib/web_console/templates/main.js.erb within layouts/javascript (0.3ms)
+  Rendered /Users/thoth/.rvm/gems/ruby-2.2.1@davinci_coders/gems/web-console-2.1.3/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.4ms)
+  Rendered /Users/thoth/.rvm/gems/ruby-2.2.1@davinci_coders/gems/web-console-2.1.3/lib/web_console/templates/index.html.erb (130.6ms)
+
+
+Started GET "/time/now" for ::1 at 2015-07-08 20:33:36 -0600
+Processing by TimeController#c_time as HTML
+  Parameters: {"name"=>"now"}
+Completed 500 Internal Server Error in 1ms (ActiveRecord: 0.0ms)
+
+NoMethodError (undefined method `now=' for Time:Class):
+  app/controllers/time_controller.rb:4:in `c_time'
+
+
+  Rendered /Users/thoth/.rvm/gems/ruby-2.2.1@davinci_coders/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/_source.erb (5.2ms)
+  Rendered /Users/thoth/.rvm/gems/ruby-2.2.1@davinci_coders/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.6ms)
+  Rendered /Users/thoth/.rvm/gems/ruby-2.2.1@davinci_coders/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.6ms)
+  Rendered /Users/thoth/.rvm/gems/ruby-2.2.1@davinci_coders/gems/actionpack-4.2.3/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (66.9ms)
+  Rendered /Users/thoth/.rvm/gems/ruby-2.2.1@davinci_coders/gems/web-console-2.1.3/lib/web_console/templates/_markup.html.erb (0.4ms)
+  Rendered /Users/thoth/.rvm/gems/ruby-2.2.1@davinci_coders/gems/web-console-2.1.3/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.4ms)
+  Rendered /Users/thoth/.rvm/gems/ruby-2.2.1@davinci_coders/gems/web-console-2.1.3/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.3ms)
+  Rendered /Users/thoth/.rvm/gems/ruby-2.2.1@davinci_coders/gems/web-console-2.1.3/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.3ms)
+  Rendered /Users/thoth/.rvm/gems/ruby-2.2.1@davinci_coders/gems/web-console-2.1.3/lib/web_console/templates/console.js.erb within layouts/javascript (55.0ms)
+  Rendered /Users/thoth/.rvm/gems/ruby-2.2.1@davinci_coders/gems/web-console-2.1.3/lib/web_console/templates/main.js.erb within layouts/javascript (0.4ms)
+  Rendered /Users/thoth/.rvm/gems/ruby-2.2.1@davinci_coders/gems/web-console-2.1.3/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.4ms)
+  Rendered /Users/thoth/.rvm/gems/ruby-2.2.1@davinci_coders/gems/web-console-2.1.3/lib/web_console/templates/index.html.erb (130.0ms)
+
+
+Started GET "/introduce/bill/and/ted/" for ::1 at 2015-07-08 20:38:06 -0600
+Processing by WelcomeController#hello as HTML
+  Parameters: {"name"=>"bill", "name2"=>"ted"}
+  Rendered welcome/hello.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 42ms (Views: 41.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/time/now" for ::1 at 2015-07-08 20:39:01 -0600
+Processing by TimeController#c_time as HTML
+  Rendered time/c_time.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 26ms (Views: 25.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/time/now" for ::1 at 2015-07-08 20:39:48 -0600
+Processing by TimeController#c_time as HTML
+  Rendered time/c_time.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 25ms (Views: 24.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-07-08 20:39:48 -0600
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-07-08 20:39:48 -0600
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-07-08 20:39:48 -0600
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-07-08 20:39:48 -0600
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2015-07-08 20:39:48 -0600
+
+
+Started GET "/time/now" for ::1 at 2015-07-08 20:39:57 -0600
+Processing by TimeController#c_time as HTML
+  Rendered time/c_time.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 25ms (Views: 24.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-07-08 20:39:58 -0600
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-07-08 20:39:58 -0600
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-07-08 20:39:58 -0600
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-07-08 20:39:58 -0600
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2015-07-08 20:39:58 -0600
+
+
+Started GET "/time/now" for ::1 at 2015-07-08 20:40:09 -0600
+Processing by TimeController#c_time as HTML
+  Rendered time/c_time.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 29ms (Views: 28.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for ::1 at 2015-07-08 20:40:09 -0600
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-07-08 20:40:09 -0600
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-07-08 20:40:09 -0600
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-07-08 20:40:09 -0600
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2015-07-08 20:40:09 -0600
